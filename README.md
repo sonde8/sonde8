@@ -2,7 +2,7 @@
 
 -------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonde8&show_icons=true&theme=dracula)
+![sonde8's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonde8&show_icons=true&theme=dracula)
 
 <br>
 

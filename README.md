@@ -2,7 +2,7 @@
 
 -------
 
-[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonde8&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonde8&show_icons=true&theme=radical)
 
 <br>
 
